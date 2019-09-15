@@ -88,5 +88,6 @@ The `master` branch is regularly built and tested, but is not guaranteed to be c
 i you
 mother
 father
+sister
 
 
